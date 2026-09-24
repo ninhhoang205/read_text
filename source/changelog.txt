@@ -1,3 +1,17 @@
+CHANGES FOR 2.5
+- fix some bug.
+- update vietnamese translation.
+- add Refresh  button If you have a newly installed voice reader on your device, or if you have uninstalled a reader that is still in the list.
+- currently, read_text has vietnamese translation. by: nguyenninhhoang(technology).
+- add translation system.
+- rules has been deleted.
+- have replaced unzip.bat with unzip.exe.
+- add license agreement when Run the software for the first time. If accepted, the application will proceed to the next step; if decline it will close immediately.
+- update readme for english and vietnamese language.
+- my message has been updated.
+- add send feenback in context menu.
+- now, you can press enter  to skip logo.
+
 changes for 2.4
 - fix bug:
   - Fixed interface overlap error.
