@@ -1,5 +1,0 @@
-Luật lệ được tạo bởi VDH Productions 
-Đây là luật lệ dành cho những người sử dụng phần mềm.
-Không được sao chép file và nói đó là phần mềm của mình. Nếu vi phạm thì sẽ phải chịu trách nhiệm trước tác giả.
-Sau đây là luật lệ dành cho những người được ủy quyền sửa chữa phần mềm.
-Không được sửa tên tác giả, thay đổi version và nói đó là phần mềm của mình. Nếu vi phạm thì sẽ phải chịu trách nhiệm trước tác giả.
